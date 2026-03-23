@@ -1,0 +1,16 @@
+{
+  "name": "icl-bot",
+  "version": "1.0.0",
+  "description": "Discord ranked match bot",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^14.21.0",
+    "dotenv": "^17.2.1"
+  }
+}
